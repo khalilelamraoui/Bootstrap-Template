@@ -1,4 +1,4 @@
-# Portfolio Template 🚀
+# Bootstrap Template 🚀
 
 This is a simple and responsive portfolio template designed for showcasing your projects and skills. It is intended to be used as a frontend-only template, with the portfolio accessible via a link.
 
